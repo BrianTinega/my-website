@@ -3,6 +3,7 @@ body {
   background-color: #000000;
   color: rgb(80, 105, 97);
   text-align: center;
+  list-style-position: inside;
 }
 @media screen and (min-width: 480px){
   body {
