@@ -9,8 +9,12 @@ body {
 }
 @media screen and (min-width: 480px){
   body {
-  background-color: #1e2129;
+  background-color: #909c26;
   color: wheat;
   }
+}
+.about {
+margin: 2px;
+font-size: medium;
 }
 
