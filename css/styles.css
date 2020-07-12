@@ -10,11 +10,13 @@ body {
 @media screen and (min-width: 480px){
   body {
   background-color: #909c26;
-  color: wheat;
+  color: black;
   }
 }
 .about {
 margin: 2px;
 font-size: medium;
 }
-
+.header {
+  color: #000000;
+}
